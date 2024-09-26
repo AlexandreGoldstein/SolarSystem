@@ -1,4 +1,4 @@
 # SolarSystem
 Entirely done in CSS
 
-Credits goes to Mads Stoumann for sharing this idea
+You can view the project live [here](https://AlexandreGoldstein.github.io/SolarSystem).
